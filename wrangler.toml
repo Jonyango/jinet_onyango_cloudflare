@@ -1,0 +1,5 @@
+name = "jinet_onyango_cloudflare"
+type = "javascript"
+account_id = "ce8388bfa208a518fca4384537d4fb06"
+workers_dev = true
+
